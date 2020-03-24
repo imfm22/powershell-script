@@ -1,6 +1,6 @@
 # PowerShell 脚本
 
-1. 设置 PowerShell x64 的 VC 开发环境变量
+## &sect; 1. 设置 PowerShell x64 的 VC 开发环境变量
 
 - Script: `SetVCDev.ps1`
 - 注意
